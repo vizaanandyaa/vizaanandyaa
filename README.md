@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viza</h1>
-<h3 align="center">A junior frontend developer from Indonesia</h3>
+<h3 align="center">A self taught junior frontend developer </h3>
 
 - 🌱 I’m practicing **Next**
 
