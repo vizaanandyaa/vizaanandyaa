@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viza</h1>
-<h3 align="center">A self taught junior frontend developer </h3>
+<h3 align="center">A self taught junior frontend developer and data enthusiast </h3>
 
-- 🌱 I’m practicing **Next**
+- 🌱 I’m practicing **Next**, **Python** 
 
 - 📫 How to reach me **avizaanandya12@gmail.com**
 
